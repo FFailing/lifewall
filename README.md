@@ -1,5 +1,9 @@
 # 此生清单
 
+<p>
+<img src="marketing/poster-1.png" width="24%"> <img src="marketing/poster-2.png" width="24%"> <img src="marketing/poster-3.png" width="24%"> <img src="marketing/poster-4.png" width="24%">
+</p>
+
 一面软木墙。一生只有 **100 张**便签，写一张就少一张，永远不会还回来。钉上的便签**不能修改、不能撕下**。唯一能做的，是在做到那天给它盖一个「已实现」的章，这个章也不能撤回。
 
 **墙**
@@ -119,6 +123,14 @@ Xcode 里：
 > 你在本应用中创建的全部内容（包括文字、照片与涂鸦）仅保存在你的设备上，并可能随你的 iCloud 设备备份一同备份；该过程由 Apple 处理，开发者无法访问。
 > 本应用不包含广告、统计分析或任何第三方服务。
 > 如有疑问，请联系：[你的邮箱]
+
+---
+
+## 宣传素材
+
+- `marketing/poster-1.png` ~ `poster-4.png`：1320×2868，可直接作为 App Store 6.9 英寸截图
+- `marketing/promo.mp4`：竖版 1080×1920 产品视频，约 50 秒，无声（建议在剪辑软件中配乐）
+- `demo/index.html`：网页演示，用浏览器直接打开即可体验
 
 ---
 

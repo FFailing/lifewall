@@ -129,8 +129,28 @@ Xcode 里：
 ## 宣传素材
 
 - `marketing/poster-1.png` ~ `poster-4.png`：1320×2868，可直接作为 App Store 6.9 英寸截图
-- `marketing/promo.mp4`：竖版 1080×1920 产品视频，约 50 秒，无声（建议在剪辑软件中配乐）
+- `marketing/promo.mp4`：竖版 1080×1920、60 帧宣传片，约 116 秒，有配乐。结构如下：
+  - 引子：哲人卡片由慢到快翻页，配阿姆斯特朗与肯尼迪的历史录音
+  - 提问：「我们，要做到什么？」
+  - 产品演示：钉上、照片与涂鸦、盖章、纪念卡、挪位置、分享整面墙
+  - 片尾
+  - 各段落均对准配乐的重拍。
+- `marketing/icon/`：图标 A/B/C 三稿，当前使用 B
 - `demo/index.html`：网页演示，用浏览器直接打开即可体验
+
+### 宣传片音频来源
+
+| 用途 | 素材 | 授权 |
+|---|---|---|
+| 配乐 | 「Cinematic Atmosphere Score 2」，Musictown，[Pixabay](https://pixabay.com/music/ambient-cinematic-atmosphere-score-2-22136/) | Pixabay Content License |
+| 翻页声 | 「Page flip 1」，OxidVideos，[Pixabay](https://pixabay.com/sound-effects/film-special-effects-page-flip-1-178322/) | Pixabay Content License |
+| 多语种街声 | 「Cordoba City Center Ambience」，ezanarini，[Pixabay](https://pixabay.com/sound-effects/people-amb-outside-heard-from-inside-cordoba-city-center-ambience-with-music-people-walking-by-and-talking-in-different-languages-286879/) | Pixabay Content License |
+| 阿姆斯特朗登月录音（1969） | NASA，[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Neil_Armstrong_small_step.wav) | 美国公有领域 |
+| 肯尼迪莱斯大学演讲（1962）片段 | 美国联邦政府作品，片段取自 [W3C WAI 测试素材](https://www.w3.org/WAI/content-assets/wcag-act-rules/testcases/afb423/e76fd82b8a71085be3a7a2ad96c1ce12522116e2.html) | 美国公有领域 |
+
+注意事项：
+- Pixabay 页面显示，该配乐已登记 YouTube Content ID。上传到 YouTube 时可能收到版权声明，可按 Pixabay 的说明申请解除。
+- 哲人卡片上的头像是自绘的通用剪影，并非真实肖像。所引格言均为公有领域的经典语句。
 
 ---
 
